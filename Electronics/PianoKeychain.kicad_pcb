@@ -882,7 +882,7 @@
     (property "Sheetname" "")
     (path "/66892adf-6d3d-4dba-aa8b-23e1bc08c770")
     (attr through_hole)
-    (fp_text reference "LS1" (at 10.936043 -7.574222) (layer "F.SilkS")
+    (fp_text reference "Speaker" (at 10.936043 -7.574222) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 31ccfc29-b7a7-4416-9b59-a4f515c0c7a8)
     )
